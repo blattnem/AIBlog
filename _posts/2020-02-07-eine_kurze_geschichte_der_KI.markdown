@@ -48,7 +48,7 @@ Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rücken
 
 Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philosophie, um ein paar Disziplinen zu nennen, tragen alle zu spannenden Fragestellungen und Hypothesen rund um KI bei. Leider wird heute KI allzu oft als eine rein technische Disziplin gesehen - mit zum Teil fatalen Folgen. Künstliche Intelligenz als Forschungsfeld hat eine sehr bewegte Geschichte.
 
-![Geschichte](images/history.png)
+![Geschichte]({{ site.baseurl }}{% link images/history.png %})
 
 ### Aufstieg & Fall - erster Hype Cycle
 
