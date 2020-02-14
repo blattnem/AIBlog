@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Prolog"
+date:   2020-02-05 11:30:04 +0100
+categories: KI Allgemein
+---
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+Dies ist eine kurze Erläuterung, wie dieser Blog aufgebaut ist.
+
+$$ \_\Lambda\_ $$ (eine Maschine) und $$ \_m\_ $$ (ein Mensch) tauschen sich zu diversen Themen rund um künstliche Intelligenz aus.
+
+Dabei übernimmt $$ \_\Lambda\_ $$ die Rolle eines übereifrigen Lehrers und $$ \_m\_ $$ ist ein allzu optimistischer Mensch, der in KI die Lösung für alle Probleme dieser Welt sieht.
+
+```
+blog_on()
+```

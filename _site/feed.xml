@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-13T14:03:43+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KI für Fussgänger</title><subtitle>Künstliche Intelligenz sinnvoll besprochen und beleuchtet.</subtitle><entry><title type="html">Eine kleine Geschichte der künstlichen Intelligenz - Teil 1</title><link href="http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html" rel="alternate" type="text/html" title="Eine kleine Geschichte der künstlichen Intelligenz - Teil 1" /><published>2020-02-07T11:30:04+01:00</published><updated>2020-02-07T11:30:04+01:00</updated><id>http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI</id><content type="html" xml:base="http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html">&lt;!-- Mathjax Support --&gt;
+&lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Bevor Du startest mit lesen, mach Dich schnell im &lt;a href=&quot;/ki/allgemein/2020/02/05/proglog.html&quot;&gt;Prolog&lt;/a&gt; schlau.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Was KI uns bringen wird ist einfach hervorragend. Wir werden von allen Routine-Aufgaben befreit sein und uns mehr den kreativen, spannenden Sachen im Leben und in der Arbeit widmen können. Ich freue mich so auf die kommende Zeit mit all den disruptiven Entwicklungen.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Was? Warum fantasierst Du wieder? Hast Du Deine Medikamente nicht genommen?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Doch habe ich. Du schon wieder mit Deinen destruktiven Bemerkungen.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Ich bin nicht destruktiv. Dir ist schon klar, dass KI nichts neues ist? Ich meine, hast Du einen leisen Schimmer davon, woher der Begriff kommt und wie sich das alles entwickelt hat die letzten Jahre?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Logo. Google, Facebook und die anderen grossen Platzhirsche haben diese neuen Technologien ins Leben gerufen. Ohne diese geilen Player wäre nicht sehr viel am Start.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Pha. Du wieder. Ich glaub ne kleine Lektion ist wieder mal überfällig.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+OMG. Na gut, wenn Du meinst. Aber bitte keine endlosen Monologe.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Endlos ist gar nicht möglich. Warum das so ist, erklär ich Dir ein andermal.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Bitte. Bleiben wir beim Thema. KI.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;.&lt;br /&gt;
+Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rückenschmerzen. Yoga würde Dir gut tun. So. Und jetzt pass gut auf!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Künstliche Intelligenz (KI) steht für ein interdisziplinäres Forschungsgebiet&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philosophie, um ein paar Disziplinen zu nennen, tragen alle zu spannenden Fragestellungen und Hypothesen rund um KI bei. Leider wird heute KI allzu oft als eine rein technische Disziplin gesehen - mit zum Teil fatalen Folgen. Künstliche Intelligenz als Forschungsfeld hat eine sehr bewegte Geschichte.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/history.png&quot; alt=&quot;Geschichte&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;aufstieg--fall---erster-hype-cycle&quot;&gt;Aufstieg &amp;amp; Fall - erster Hype Cycle&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Die grossen Fragen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Turing&quot; target=&quot;_blank&quot;&gt;Alan Turing&lt;/a&gt; hat 1950 in seiner banhbrechenden Arbeit &lt;a href=&quot;https://academic.oup.com/mind/article/LIX/236/433/986238&quot; target=&quot;_blank&quot;&gt;Computing Machinery and Intelligence&lt;/a&gt; die Frage gestellt: Kann eine Maschine die menschliche Intelligenz imitieren? Er formulierte darin ein Spiel - Imitationgame. Bei diesem Spiel tauschen Maschine und Mensch Fragen und Antworten aus. Der Mensch weiss a priori nicht, mit wem er kommuniziert (einem Menschen oder einer Maschine). Die Maschine gewinnt das Spiel, wenn der Mensch durch die Antworten der Maschine überzeugt wird, dass es sich beim Gegenüber um einen Menschen und nicht um eine Maschine handelt. Dieses Spiel ist heute auch unter dem Namen &lt;a href=&quot;https://en.wikipedia.org/wiki/Turing_test&quot; target=&quot;_blank&quot;&gt;Turing-Test&lt;/a&gt; bekannt.&lt;/p&gt;
+
+&lt;p&gt;Turing regte mit seinen Gedanken und Hypthesen Wissenschaftler und Visonäre zum Nachdenken an. Wie sollen wir das Verhältnis Mensch-Maschine verstehen? Gibt es jemals selbständig denkende Maschinen und wenn ja, was wären die Folgen für Gesellschaft und die Stellung des Menschen in unserer Welt?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Geht das jetzt immer so weiter? Ich meine, betreibst Du jetzt einfach langweilige Geschichtsstunde? Ich will hören, wie cool Deep Learning, Reinforcement Learning ist und wie wir damit alle Probleme der Menschheit lösen können!&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Jetzt chill mal die Basis. Ja, wir müssen ein wenig Geschichtsstunde betreiben, damit Du besser verstehen kannst, warum nicht alles durch die ‘rosa KI’ Brille betrachtet werden soll. OK?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Wenns sein muss?&lt;/p&gt;
+
+&lt;p&gt;Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Verhalten imitieren kann. 1951 versuchte &lt;a href=&quot;https://en.wikipedia.org/wiki/Marvin_Minsky&quot; target=&quot;_blank&quot;&gt;Marvin Minsky&lt;/a&gt; und Dean Edmonds das Verhalten einer nach Futter suchenden Ratte in einem Model nachzubilden. Dazu bauten sie eine Maschine (SNARC), welche ein primitives Neuronales Netz abbildete (40 künstliche Neuronen). Minsky gelang damit einfache Verhaltensweisen einer Ratte zu modellieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/SNARC.png&quot; alt=&quot;SNARC&quot; /&gt;
+&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator&quot; target=&quot;_blank&quot;&gt;SNARC (Stochastic Neural-Analog Reinforcement Calculator)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Prolog</title><link href="http://localhost:4000/ki/allgemein/2020/02/05/proglog.html" rel="alternate" type="text/html" title="Prolog" /><published>2020-02-05T11:30:04+01:00</published><updated>2020-02-05T11:30:04+01:00</updated><id>http://localhost:4000/ki/allgemein/2020/02/05/proglog</id><content type="html" xml:base="http://localhost:4000/ki/allgemein/2020/02/05/proglog.html">&lt;!-- Mathjax Support --&gt;
+&lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;Dies ist eine kurze Erläuterung, wie dieser Blog aufgebaut ist.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_&lt;/script&gt; (eine Maschine) und &lt;script type=&quot;math/tex&quot;&gt;\_m\_&lt;/script&gt; (ein Mensch) tauschen sich zu diversen Themen rund um künstliche Intelligenz aus.&lt;/p&gt;
+
+&lt;p&gt;Dabei übernimmt &lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_&lt;/script&gt; die Rolle eines übereifrigen Lehrers und &lt;script type=&quot;math/tex&quot;&gt;\_m\_&lt;/script&gt; ist ein allzu optimistischer Mensch, der in KI die Lösung für alle Probleme dieser Welt sieht.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;blog_on()
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
