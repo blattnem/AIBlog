@@ -53,7 +53,7 @@ Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philoso
 
 ### Aufstieg & Fall - erster Hype Cycle
 
-**Die grossen Fragen**
+**Die tiefen Fragen**
 
 [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing){:target="_blank"} hat 1950 in seiner banhbrechenden Arbeit [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238){:target='_blank'} die Frage gestellt: Kann eine Maschine die menschliche Intelligenz imitieren? Er formulierte darin ein Spiel - Imitationgame. Bei diesem Spiel tauschen Maschine und Mensch Fragen und Antworten aus. Der Mensch weiss a priori nicht, mit wem er kommuniziert (einem Menschen oder einer Maschine). Die Maschine gewinnt das Spiel, wenn der Mensch durch die Antworten der Maschine überzeugt wird, dass es sich beim Gegenüber um einen Menschen und nicht um eine Maschine handelt. Dieses Spiel ist heute auch unter dem Namen [Turing-Test](https://en.wikipedia.org/wiki/Turing_test){:target='_blank'} bekannt.
 
@@ -73,3 +73,58 @@ Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Ve
 
 ![SNARC]({{ site.baseurl }}{% link images/SNARC.png %})
 *[SNARC (Stochastic Neural-Analog Reinforcement Calculator)](https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator){:target="_blank"}*
+
+**Der Hype nimmt Fahrt auf**  
+
+Dieser und andere erste Erfolge blieben nicht unbemerkt. John Mc Carthy organsierte 1956
+eine Konferenz - [Dartmouth Konferenz](https://de.wikipedia.org/wiki/Dartmouth_Conference){:target="_blank"} - zu er die Creme de la Creme der Forschung einlud.
+Das Ziel war klar und sehr ambitioniert: eine Maschine zu entwerfen, welche wie
+ein Mensch denken und selbständig abstrakte Konzepte entwickeln kann, um
+komplexe Probleme zu lösen. Der Begriff künstliche Intelligenz wurde an
+dieser Konferenz ins Leben gerufen. Diese Konferenz war der Geburtsort von
+vielen Visionen, welche heute mehr denn je lebendig sind.
+
+Der Optimismus kannte damals kaum Grenzen und so mancher Wissenschaflter liess
+sich zu sehr gewagten Statements hinreissen. Zum Beispiel behauptete Minsky, dass
+innerhalb einer Generation alle schwierigen Probleme gelöst seien, um eine
+intelligente Maschine zu bauen, welche kognitiv dem Menschen in nichts nachstehen
+würde [1,2].
+
+Nach den ersten Erfolgen und der initialen Partystimmung innerhalb der KI Community
+machte sich bald eine Katerstimmung breit. Ende der 70er Jahre war man in vielen
+Bereichen nicht weiter und Maschinen konnten nur einfach strukturierte Probleme
+lösen.
+
+
+$$ \_m\_:$$  
+Sorry, dass ich Dich schon wieder in Deinem Monolog unterbrechen muss. Aber ich hab
+da mal ne Frage. Wann kommt der spannende Part?
+
+$$ \_\Lambda\_:$$  
+Was meinst Du? Das ist spannend!
+
+$$ \_m\_:$$  
+Naja, das ist wohl Ansichtsache. Eins interessiert mich aber wirklich. Was
+waren die Gründe, dass man nicht vorwärts kam?
+
+$$ \_\Lambda\_:$$  
+....am Dienstag gibts Fondue....
+
+$$ \_m\_:$$  
+Hallo? Gehst Du kaputt? Ich hab Dich was gefragt!
+
+$$ \_\Lambda\_:$$  
+Sorry, ja.
+
+Einer der Hauptgründe war, dass man das menschliche Gehirn nicht genug verstanden
+hat. Und das hat sich bis heute übrigens nicht gross geändert. Im Besonderen
+versteht man die neurologischen Vorgänge, welche für Kreativität, Neugier,
+Humor etc. verantwortlich sind, viel zu wenig. Man kann diese Dinge nicht explizit modellierien, weil man damals und heute nicht versteht, was man modellieren soll.
+
+
+
+**Referenzen**  
+
+[1] Minsky, Marvin (1967), "Computation: finite and infinite machines," Prentice-Hall, Inc. page 2. ISBN:0-13-165563-9.
+
+[2] "AI pioneer Marvin Minsky dies aged 88". BBC News. 26 January 2016.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-14T13:15:01+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KI für Fussgänger</title><subtitle>Künstliche Intelligenz sinnvoll besprochen und beleuchtet.</subtitle><entry><title type="html">Eine kleine Geschichte der künstlichen Intelligenz - Teil 1</title><link href="http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html" rel="alternate" type="text/html" title="Eine kleine Geschichte der künstlichen Intelligenz - Teil 1" /><published>2020-02-07T11:30:04+01:00</published><updated>2020-02-07T11:30:04+01:00</updated><id>http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI</id><content type="html" xml:base="http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html">&lt;!-- Mathjax Support --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-14T16:05:00+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">KI für Fussgänger</title><subtitle>Künstliche Intelligenz sinnvoll besprochen und beleuchtet.</subtitle><entry><title type="html">Eine kleine Geschichte der künstlichen Intelligenz - Teil 1</title><link href="http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html" rel="alternate" type="text/html" title="Eine kleine Geschichte der künstlichen Intelligenz - Teil 1" /><published>2020-02-07T11:30:04+01:00</published><updated>2020-02-07T11:30:04+01:00</updated><id>http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI</id><content type="html" xml:base="http://localhost:4000/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html">&lt;!-- Mathjax Support --&gt;
 &lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -42,7 +42,7 @@ Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rücken
 
 &lt;h3 id=&quot;aufstieg--fall---erster-hype-cycle&quot;&gt;Aufstieg &amp;amp; Fall - erster Hype Cycle&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Die grossen Fragen&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Die tiefen Fragen&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Turing&quot; target=&quot;_blank&quot;&gt;Alan Turing&lt;/a&gt; hat 1950 in seiner banhbrechenden Arbeit &lt;a href=&quot;https://academic.oup.com/mind/article/LIX/236/433/986238&quot; target=&quot;_blank&quot;&gt;Computing Machinery and Intelligence&lt;/a&gt; die Frage gestellt: Kann eine Maschine die menschliche Intelligenz imitieren? Er formulierte darin ein Spiel - Imitationgame. Bei diesem Spiel tauschen Maschine und Mensch Fragen und Antworten aus. Der Mensch weiss a priori nicht, mit wem er kommuniziert (einem Menschen oder einer Maschine). Die Maschine gewinnt das Spiel, wenn der Mensch durch die Antworten der Maschine überzeugt wird, dass es sich beim Gegenüber um einen Menschen und nicht um eine Maschine handelt. Dieses Spiel ist heute auch unter dem Namen &lt;a href=&quot;https://en.wikipedia.org/wiki/Turing_test&quot; target=&quot;_blank&quot;&gt;Turing-Test&lt;/a&gt; bekannt.&lt;/p&gt;
 
@@ -60,7 +60,59 @@ Wenns sein muss?&lt;/p&gt;
 &lt;p&gt;Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Verhalten imitieren kann. 1951 versuchte &lt;a href=&quot;https://en.wikipedia.org/wiki/Marvin_Minsky&quot; target=&quot;_blank&quot;&gt;Marvin Minsky&lt;/a&gt; und Dean Edmonds das Verhalten einer nach Futter suchenden Ratte in einem Model nachzubilden. Dazu bauten sie eine Maschine (SNARC), welche ein primitives Neuronales Netz abbildete (40 künstliche Neuronen). Minsky gelang damit einfache Verhaltensweisen einer Ratte zu modellieren.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/SNARC.png&quot; alt=&quot;SNARC&quot; /&gt;
-&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator&quot; target=&quot;_blank&quot;&gt;SNARC (Stochastic Neural-Analog Reinforcement Calculator)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Prolog</title><link href="http://localhost:4000/ki/allgemein/2020/02/05/proglog.html" rel="alternate" type="text/html" title="Prolog" /><published>2020-02-05T11:30:04+01:00</published><updated>2020-02-05T11:30:04+01:00</updated><id>http://localhost:4000/ki/allgemein/2020/02/05/proglog</id><content type="html" xml:base="http://localhost:4000/ki/allgemein/2020/02/05/proglog.html">&lt;!-- Mathjax Support --&gt;
+&lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator&quot; target=&quot;_blank&quot;&gt;SNARC (Stochastic Neural-Analog Reinforcement Calculator)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Der Hype nimmt Fahrt auf&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dieser und andere erste Erfolge blieben nicht unbemerkt. John Mc Carthy organsierte 1956
+eine Konferenz - &lt;a href=&quot;https://de.wikipedia.org/wiki/Dartmouth_Conference&quot; target=&quot;_blank&quot;&gt;Dartmouth Konferenz&lt;/a&gt; - zu er die Creme de la Creme der Forschung einlud.
+Das Ziel war klar und sehr ambitioniert: eine Maschine zu entwerfen, welche wie
+ein Mensch denken und selbständig abstrakte Konzepte entwickeln kann, um
+komplexe Probleme zu lösen. Der Begriff künstliche Intelligenz wurde an
+dieser Konferenz ins Leben gerufen. Diese Konferenz war der Geburtsort von
+vielen Visionen, welche heute mehr denn je lebendig sind.&lt;/p&gt;
+
+&lt;p&gt;Der Optimismus kannte damals kaum Grenzen und so mancher Wissenschaflter liess
+sich zu sehr gewagten Statements hinreissen. Zum Beispiel behauptete Minsky, dass
+innerhalb einer Generation alle schwierigen Probleme gelöst seien, um eine
+intelligente Maschine zu bauen, welche kognitiv dem Menschen in nichts nachstehen
+würde [1,2].&lt;/p&gt;
+
+&lt;p&gt;Nach den ersten Erfolgen und der initialen Partystimmung innerhalb der KI Community
+machte sich bald eine Katerstimmung breit. Ende der 70er Jahre war man in vielen
+Bereichen nicht weiter und Maschinen konnten nur einfach strukturierte Probleme
+lösen.&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Sorry, dass ich Dich schon wieder in Deinem Monolog unterbrechen muss. Aber ich hab
+da mal ne Frage. Wann kommt der spannende Part?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Was meinst Du? Das ist spannend!&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Naja, das ist wohl Ansichtsache. Eins interessiert mich aber wirklich. Was
+waren die Gründe, dass man nicht vorwärts kam?&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+….am Dienstag gibts Fondue….&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_m\_:&lt;/script&gt;&lt;br /&gt;
+Hallo? Gehst Du kaputt? Ich hab Dich was gefragt!&lt;/p&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;\_\Lambda\_:&lt;/script&gt;&lt;br /&gt;
+Sorry, ja.&lt;/p&gt;
+
+&lt;p&gt;Einer der Hauptgründe war, dass man das menschliche Gehirn nicht genug verstanden
+hat. Und das hat sich bis heute übrigens nicht gross geändert. Im Besonderen
+versteht man die neurologischen Vorgänge, welche für Kreativität, Neugier,
+Humor etc. verantwortlich sind, viel zu wenig. Man kann diese Dinge nicht explizit modellierien, weil man damals und heute nicht versteht, was man modellieren soll.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Referenzen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;[1] Minsky, Marvin (1967), “Computation: finite and infinite machines,” Prentice-Hall, Inc. page 2. ISBN:0-13-165563-9.&lt;/p&gt;
+
+&lt;p&gt;[2] “AI pioneer Marvin Minsky dies aged 88”. BBC News. 26 January 2016.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Prolog</title><link href="http://localhost:4000/ki/allgemein/2020/02/05/proglog.html" rel="alternate" type="text/html" title="Prolog" /><published>2020-02-05T11:30:04+01:00</published><updated>2020-02-05T11:30:04+01:00</updated><id>http://localhost:4000/ki/allgemein/2020/02/05/proglog</id><content type="html" xml:base="http://localhost:4000/ki/allgemein/2020/02/05/proglog.html">&lt;!-- Mathjax Support --&gt;
 &lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&quot;&gt;
 &lt;/script&gt;
 
