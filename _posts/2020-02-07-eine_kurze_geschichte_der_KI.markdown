@@ -48,8 +48,7 @@ Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rücken
 
 Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philosophie, um ein paar Disziplinen zu nennen, tragen alle zu spannenden Fragestellungen und Hypothesen rund um KI bei. Leider wird heute KI allzu oft als eine rein technische Disziplin gesehen - mit zum Teil fatalen Folgen. Künstliche Intelligenz als Forschungsfeld hat eine sehr bewegte Geschichte.
 
-![Geschichte]({{ site.baseurl }}{% link images/history.png %})
-
+![Geschichte]({{'/images/history.png' | relative_url }})
 
 ### Aufstieg & Fall - erster Hype Cycle
 
@@ -71,7 +70,7 @@ Wenns sein muss?
 
 Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Verhalten imitieren kann. 1951 versuchte [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky){:target="_blank"} und Dean Edmonds das Verhalten einer nach Futter suchenden Ratte in einem Model nachzubilden. Dazu bauten sie eine Maschine (SNARC), welche ein primitives Neuronales Netz abbildete (40 künstliche Neuronen). Minsky gelang damit einfache Verhaltensweisen einer Ratte zu modellieren.
 
-![SNARC]({{ site.baseurl }}{% link images/SNARC.png %})
+![SNARC]({{'/images/SNARC.png' | relative_url }})
 *[SNARC (Stochastic Neural-Analog Reinforcement Calculator)](https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator){:target="_blank"}*
 
 **Der Hype nimmt Fahrt auf**  

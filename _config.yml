@@ -23,7 +23,7 @@ email: blattnem@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Künstliche Intelligenz sinnvoll besprochen und beleuchtet.
 #logo: /assets/img/logo.png
-baseurl: "/AIBlog" # the subpath of your site, e.g. /blog
+baseurl: "/AIBlog/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blattnerma
 github_username:  blattnem

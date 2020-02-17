@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/AIBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/AIBlog/" rel="alternate" type="text/html" /><updated>2020-02-17T11:52:15+01:00</updated><id>http://localhost:4000/AIBlog/feed.xml</id><title type="html">KI für Fussgänger</title><subtitle>Künstliche Intelligenz sinnvoll besprochen und beleuchtet.</subtitle><entry><title type="html">Eine kleine Geschichte der künstlichen Intelligenz - Teil 1</title><link href="http://localhost:4000/AIBlog/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html" rel="alternate" type="text/html" title="Eine kleine Geschichte der künstlichen Intelligenz - Teil 1" /><published>2020-02-07T11:30:04+01:00</published><updated>2020-02-07T11:30:04+01:00</updated><id>http://localhost:4000/AIBlog/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI</id><content type="html" xml:base="http://localhost:4000/AIBlog/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html">&lt;!-- Mathjax Support --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/AIBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/AIBlog/" rel="alternate" type="text/html" /><updated>2020-02-17T12:14:39+01:00</updated><id>http://localhost:4000/AIBlog/feed.xml</id><title type="html">KI für Fussgänger</title><subtitle>Künstliche Intelligenz sinnvoll besprochen und beleuchtet.</subtitle><entry><title type="html">Eine kleine Geschichte der künstlichen Intelligenz - Teil 1</title><link href="http://localhost:4000/AIBlog/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html" rel="alternate" type="text/html" title="Eine kleine Geschichte der künstlichen Intelligenz - Teil 1" /><published>2020-02-07T11:30:04+01:00</published><updated>2020-02-07T11:30:04+01:00</updated><id>http://localhost:4000/AIBlog/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI</id><content type="html" xml:base="http://localhost:4000/AIBlog/ki/allgemein/2020/02/07/eine_kurze_geschichte_der_KI.html">&lt;!-- Mathjax Support --&gt;
 &lt;script type=&quot;text/javascript&quot; async=&quot;&quot; src=&quot;https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML&quot;&gt;
 &lt;/script&gt;
 
@@ -38,7 +38,7 @@ Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rücken
 
 &lt;p&gt;Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philosophie, um ein paar Disziplinen zu nennen, tragen alle zu spannenden Fragestellungen und Hypothesen rund um KI bei. Leider wird heute KI allzu oft als eine rein technische Disziplin gesehen - mit zum Teil fatalen Folgen. Künstliche Intelligenz als Forschungsfeld hat eine sehr bewegte Geschichte.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/AIBlog/AIBlog/images/history.png&quot; alt=&quot;Geschichte&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/AIBlog/images/history.png&quot; alt=&quot;Geschichte&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;aufstieg--fall---erster-hype-cycle&quot;&gt;Aufstieg &amp;amp; Fall - erster Hype Cycle&lt;/h3&gt;
 
@@ -59,7 +59,7 @@ Wenns sein muss?&lt;/p&gt;
 
 &lt;p&gt;Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Verhalten imitieren kann. 1951 versuchte &lt;a href=&quot;https://en.wikipedia.org/wiki/Marvin_Minsky&quot; target=&quot;_blank&quot;&gt;Marvin Minsky&lt;/a&gt; und Dean Edmonds das Verhalten einer nach Futter suchenden Ratte in einem Model nachzubilden. Dazu bauten sie eine Maschine (SNARC), welche ein primitives Neuronales Netz abbildete (40 künstliche Neuronen). Minsky gelang damit einfache Verhaltensweisen einer Ratte zu modellieren.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/AIBlog/AIBlog/images/SNARC.png&quot; alt=&quot;SNARC&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/AIBlog/images/SNARC.png&quot; alt=&quot;SNARC&quot; /&gt;
 &lt;em&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator&quot; target=&quot;_blank&quot;&gt;SNARC (Stochastic Neural-Analog Reinforcement Calculator)&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Der Hype nimmt Fahrt auf&lt;/strong&gt;&lt;/p&gt;
