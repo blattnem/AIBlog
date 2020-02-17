@@ -10,7 +10,7 @@ categories: KI Allgemein
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-Bevor Du startest mit lesen, mach Dich schnell im [Prolog]({{ site.baseurl }}{% link _posts/2020-05-02-proglog.markdown %}) schlau.
+Bevor Du startest mit lesen, mach Dich schnell im [Prolog]({% post_url 2020-05-02-proglog %}) schlau.
 
 $$ \_m\_:$$  
 Was KI uns bringen wird ist einfach hervorragend. Wir werden von allen Routine-Aufgaben befreit sein und uns mehr den kreativen, spannenden Sachen im Leben und in der Arbeit widmen können. Ich freue mich so auf die kommende Zeit mit all den disruptiven Entwicklungen.
@@ -54,7 +54,7 @@ Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philoso
 
 **Die tiefen Fragen**
 
-[Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing){:target="_blank"} hat 1950 in seiner banhbrechenden Arbeit [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238){:target='_blank'} die Frage gestellt: Kann eine Maschine die menschliche Intelligenz imitieren? Er formulierte darin ein Spiel - Imitationgame. Bei diesem Spiel tauschen Maschine und Mensch Fragen und Antworten aus. Der Mensch weiss a priori nicht, mit wem er kommuniziert (einem Menschen oder einer Maschine). Die Maschine gewinnt das Spiel, wenn der Mensch durch die Antworten der Maschine überzeugt wird, dass es sich beim Gegenüber um einen Menschen und nicht um eine Maschine handelt. Dieses Spiel ist heute auch unter dem Namen [Turing-Test](https://en.wikipedia.org/wiki/Turing_test){:target='_blank'} bekannt.
+[Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing){:target='_blank'} hat 1950 in seiner banhbrechenden Arbeit [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238){:target='_blank'} die Frage gestellt: Kann eine Maschine die menschliche Intelligenz imitieren? Er formulierte darin ein Spiel - Imitationgame. Bei diesem Spiel tauschen Maschine und Mensch Fragen und Antworten aus. Der Mensch weiss a priori nicht, mit wem er kommuniziert (einem Menschen oder einer Maschine). Die Maschine gewinnt das Spiel, wenn der Mensch durch die Antworten der Maschine überzeugt wird, dass es sich beim Gegenüber um einen Menschen und nicht um eine Maschine handelt. Dieses Spiel ist heute auch unter dem Namen [Turing-Test](https://en.wikipedia.org/wiki/Turing_test){:target='_blank'} bekannt.
 
 Turing regte mit seinen Gedanken und Hypthesen Wissenschaftler und Visonäre zum Nachdenken an. Wie sollen wir das Verhältnis Mensch-Maschine verstehen? Gibt es jemals selbständig denkende Maschinen und wenn ja, was wären die Folgen für Gesellschaft und die Stellung des Menschen in unserer Welt?
 
