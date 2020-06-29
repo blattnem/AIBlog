@@ -143,8 +143,7 @@ Zusammenfassung:
 Ziel ist eine Maschine zu bauen, welche komplexe Probleme lösen kann.
 * Die zu ambitionierten Ziele gepaart mit überzogenen Versprechen haben das Vertrauen in der Öffentlichkeit
 und bei Investoren massiv ramponiert. Dies führte zum (1.) KI Winter.
-* Die Filmindustrie und auch das Marketing von grossen Firmen hatten prägten ein falsches Bild, was mit
-diesen Technologien möglich ist und wo die Grenzen liegen. 
+* Die Filmindustrie und das Marketing von grossen Firmen prägten/prägen die Wahrnehmen von KI in der Öffentlichkeit.
 
 
 
