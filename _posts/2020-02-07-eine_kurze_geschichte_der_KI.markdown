@@ -70,8 +70,9 @@ Wenns sein muss?
 
 Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Verhalten imitieren kann. 1951 versuchte [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky){:target="_blank"} und Dean Edmonds das Verhalten einer nach Futter suchenden Ratte in einem Model nachzubilden. Dazu bauten sie eine Maschine (SNARC), welche ein primitives Neuronales Netz abbildete (40 künstliche Neuronen). Minsky gelang damit einfache Verhaltensweisen einer Ratte zu modellieren.
 
-![SNARC]({{'/images/SNARC.png' | relative_url }})
-*[SNARC (Stochastic Neural-Analog Reinforcement Calculator)](https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator){:target="_blank"}*
+|![SNARC]({{'/images/SNARC.png' | relative_url }})
+|:---:|
+|*[SNARC (Stochastic Neural-Analog Reinforcement Calculator)](https://en.wikipedia.org/wiki/Stochastic_neural_analog_reinforcement_calculator){:target="_blank"}*|
 
 **Der Hype nimmt Fahrt auf**  
 
