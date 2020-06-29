@@ -124,7 +124,7 @@ Was soll das heissen? Hälst Du mich für blöd?
 $$ \_\Lambda\_:$$  
 Blöd vielleicht nicht aber... Naja, lassen wir das.
 
-Es wurde zu viel versprochen. Die Forschung konnte nicht liefern, was sie angesagt hatte
+Die Komplexität der Probleme wurden massiv unterschätzt und bald wurde klar, dass das ganze Vorhaben in der gewünschten Zeit nicht von Erfolg gekrönt sein wird. Zudem wurde zu viel versprochen. Die Forschung konnte nicht liefern, was sie angesagt hatte
 und in der Industrie gabs einfach zu wenig Use Cases. In der Theorie war man weiter als
 man mit der damaligen Rechenpower erreichen konnte. Es mündetet alles in eine grosse
 Enttäuschung und die Finanzierungen für die Forschung blieben aus. Die mündete in ein Disaster,
