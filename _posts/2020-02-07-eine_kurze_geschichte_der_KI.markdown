@@ -137,6 +137,14 @@ Der Hype und die damit verbundenen Erwartungen wurden zusätzlich durch die Film
 |:---:|
 |*[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*|
 
+Zusammenfassung:
+
+* KI ist ein Sammelbegriff für unterschiedliche Methoden aus unterschiedlichen Forschungsbereichen. Das
+Ziel ist eine Maschine zu bauen, welche komplexe Probleme lösen kann.
+* Die zu ambitionierten Ziele gepaart mit überzogenen Versprechen haben das Vertrauen in der Öffentlichkeit
+und bei Investoren massiv ramponiert. Dies führte zum (1.) KI Winter.
+* Die Filmindustrie und auch das Marketing von grossen Firmen hatten prägten ein falsches Bild, was mit
+diesen Technologien möglich ist und wo die Grenzen liegen. 
 
 
 
