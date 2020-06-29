@@ -115,12 +115,21 @@ Hallo? Gehst Du kaputt? Ich hab Dich was gefragt!
 $$ \_\Lambda\_:$$  
 Sorry, ja.
 
-Einer der Hauptgründe war, dass man das menschliche Gehirn nicht genug verstanden
-hat. Und das hat sich bis heute übrigens nicht gross geändert. Im Besonderen
-versteht man die neurologischen Vorgänge, welche für Kreativität, Neugier,
-Humor etc. verantwortlich sind, viel zu wenig. Man kann diese Dinge nicht explizit modelierien, weil man damals und heute nicht versteht, was man modellieren soll.
+Nun eigentlich ist das nicht sehr schwer zu verstehen?
 
-Der Hype wurde zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
+$$ \_m\_:$$  
+Was soll das heissen? Hälst Du mich für blöd?
+
+$$ \_\Lambda\_:$$  
+Blöd vielleicht nicht aber... Naja, lassen wir das.
+
+Es wurde zu viel versprochen. Die Forschung konnte nicht liefern, was sie angesagt hatte
+und in der Industrie gabs einfach zu wenig Use Cases. In der Theorie war man weiter als
+man mit der damaligen Rechenpower erreichen konnte. Es mündetet alles in eine grosse
+Enttäuschung und die Finanzierungen für die Forschung blieben aus.
+
+
+Der Hype und damit überzogene Erwartungen wurden zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
 
 ![HAL9000]({{'/images/hal9000.png' | relative_url }})
 *[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*
