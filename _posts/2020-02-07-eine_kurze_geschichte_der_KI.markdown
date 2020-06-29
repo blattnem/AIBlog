@@ -103,7 +103,7 @@ $$ \_\Lambda\_:$$
 Was meinst Du? Das ist spannend!
 
 $$ \_m\_:$$  
-Naja, das ist wohl Ansichtsache. Eins interessiert mich aber wirklich. Was
+Naja, das ist wohl Ansichtssache. Eins interessiert mich aber wirklich. Was
 waren die Gründe, dass man nicht vorwärts kam?
 
 $$ \_\Lambda\_:$$  
@@ -118,7 +118,13 @@ Sorry, ja.
 Einer der Hauptgründe war, dass man das menschliche Gehirn nicht genug verstanden
 hat. Und das hat sich bis heute übrigens nicht gross geändert. Im Besonderen
 versteht man die neurologischen Vorgänge, welche für Kreativität, Neugier,
-Humor etc. verantwortlich sind, viel zu wenig. Man kann diese Dinge nicht explizit modellierien, weil man damals und heute nicht versteht, was man modellieren soll.
+Humor etc. verantwortlich sind, viel zu wenig. Man kann diese Dinge nicht explizit modelierien, weil man damals und heute nicht versteht, was man modellieren soll.
+
+Der Hype wurde zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
+
+![HAL9000]({{'/images/hal9000.png' | relative_url }})
+*[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*
+
 
 
 
