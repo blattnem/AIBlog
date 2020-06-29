@@ -126,7 +126,8 @@ Blöd vielleicht nicht aber... Naja, lassen wir das.
 Es wurde zu viel versprochen. Die Forschung konnte nicht liefern, was sie angesagt hatte
 und in der Industrie gabs einfach zu wenig Use Cases. In der Theorie war man weiter als
 man mit der damaligen Rechenpower erreichen konnte. Es mündetet alles in eine grosse
-Enttäuschung und die Finanzierungen für die Forschung blieben aus.
+Enttäuschung und die Finanzierungen für die Forschung blieben aus. Die mündete in ein Disaster,
+dass man [KI Winter](https://de.wikipedia.org/wiki/KI-Winter){:target="_blank"} nannte.
 
 
 Der Hype und damit überzogene Erwartungen wurden zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
