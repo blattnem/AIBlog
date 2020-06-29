@@ -131,7 +131,7 @@ Enttäuschung und die Finanzierungen für die Forschung blieben aus. Kurzum, ein
 das man [KI Winter](https://de.wikipedia.org/wiki/KI-Winter){:target="_blank"} nannte.
 
 
-Der Hype und damit überzogene Erwartungen wurden zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
+Der Hype und die damit verbundenen Erwartungen wurden zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
 
 |![hal9000]({{'/images/hal9000.png' | relative_url}}){:height="400px" width="400px"}
 |:---:|
