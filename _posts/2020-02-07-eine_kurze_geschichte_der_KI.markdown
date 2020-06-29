@@ -133,7 +133,7 @@ Der Hype und damit überzogene Erwartungen wurden zusätzlich durch die Filmindu
 
 ![hal9000]({{'/images/hal9000.png' | relative_url}}){:height="50%" width="50%"}
 
-*[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*
+ *[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*
 
 
 
