@@ -126,8 +126,8 @@ Blöd vielleicht nicht aber... Naja, lassen wir das.
 
 Die Komplexität der Probleme wurden massiv unterschätzt und bald wurde klar, dass das ganze Vorhaben in der gewünschten Zeit nicht von Erfolg gekrönt sein wird. Zudem wurde zu viel versprochen. Die Forschung konnte nicht liefern, was sie angesagt hatte
 und in der Industrie gabs einfach zu wenig Use Cases. In der Theorie war man weiter als
-man mit der damaligen Rechenpower erreichen konnte. Es mündetet alles in eine grosse
-Enttäuschung und die Finanzierungen für die Forschung blieben aus. Die mündete in ein Disaster,
+man mit der damaligen Rechenpower erreichen konnte. Es mündetet alles in einer grossen
+Enttäuschung und die Finanzierungen für die Forschung blieben aus. Kurzum, ein Disaster,
 das man [KI Winter](https://de.wikipedia.org/wiki/KI-Winter){:target="_blank"} nannte.
 
 
