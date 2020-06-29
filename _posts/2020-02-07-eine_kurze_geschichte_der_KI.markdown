@@ -131,9 +131,9 @@ Enttäuschung und die Finanzierungen für die Forschung blieben aus.
 
 Der Hype und damit überzogene Erwartungen wurden zusätzlich durch die Filmindustrie befeuert. Hollywood fand am Thema KI gefallen und 1968 produzierten Arthur Clarke und Stanley Kubrick den Film 2001: A Space Odyssey. HAL 9000 betrat die Bühne des KI Theaters. Diese Maschine zeigte Kreativität, hatte ein Selbstbewusstsein und wusste wie man intrigiert. Fähigkeiten, die man sonst Menschen zuschreibt. Solche und andere Plots prägten und prägen immer noch das Bild, was KI sein soll oder ist. Minsky wurde damals als Berater herangezogen.
 
-![hal9000]({{'/images/hal9000.png' | relative_url}}){:height="50%" width="50%"}
-
- *[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*
+|![hal9000]({{'/images/hal9000.png' | relative_url}}){:height="50%" width="50%"}
+|:---:|
+|*[HAL9000 eine künstliche Intelligenz aus dem Film 2001: A space Odyssey](https://de.wikipedia.org/wiki/HAL_9000){:target="_blank"}*|
 
 
 
