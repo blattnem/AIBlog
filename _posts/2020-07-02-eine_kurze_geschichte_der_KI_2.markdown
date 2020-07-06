@@ -13,6 +13,7 @@ categories: KI Allgemein
 Bevor Du startest mit lesen, mach Dich schnell im [Prolog]({{ site.baseurl }}{% link _posts/2020-05-02-proglog.markdown %}) schlau.
 
 **Wiedergeburt**
+
 $$ \_m\_:$$  
 Was KI uns bringen wird ist einfach hervorragend. Wir werden von allen Routine-Aufgaben befreit sein und uns mehr den kreativen, spannenden Sachen im Leben und in der Arbeit widmen können. Ich freue mich so auf die kommende Zeit mit all den disruptiven Entwicklungen.
 
