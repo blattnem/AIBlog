@@ -22,8 +22,32 @@ $$ \_m\_:$$
 Also ehrlich. Hör auf mich immer zu bemuttern. Ja, ich trinke ja Wasser. Aber erzähl, wie ging es weiter.
 
 $$ \_\Lambda\_:$$  
+In den 80er und 90er Jahren hat man erkannt, dass Methoden aus den Bereichen stochastische Modellierung,
+Spieltheorie, Operational Research, genetische Algorithmen etc. die Genauigkeit und Robustheit von KI Systemen
+verbessern. Erste, brauchbare neuronale Netze erblickten die Welt und ein realistisches Expectation Management
+gaben dem Forschungsgebiet KI neuen Auftrieb.
 
-In den 1980er und 90er Jahren erkannten Forscher, dass viele KI-Lösungen durch den Einsatz von Techniken aus Mathematik und Wirtschaft wie Spieltheorie, stochastische Modellierung, klassische numerische Methoden, Operations Research und Optimierung verbessert werden konnten. Bessere mathematische Beschreibungen wurden für tiefe neuronale Netze sowie evolutionäre und genetische Algorithmen entwickelt, die in dieser Zeit reiften. All dies führte zu neuen Unterbereichen und kommerzielle Produkte in der KI entstehen.
+$$ \_m\_:$$
+Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber.
+
+$$ \_\Lambda\_:$$
+Darüber werden wir später sprechen. Wie du aber jetzt schon siehst, sind neuronale Netze keine neue Erfindung.
+Die mathematische Beschreibung dafür gibt es schon sehr lange. Durch neuere Hardware und die Masse an Daten, auf
+die man jetzt zugreifen konnte, konnte man diese Netze vernünftig aufsetzen und trainieren.
+
+$$ \_m\_:$$
+Oh je. Die Geschichtsstunde dauert an.
+
+$$ \_\Lambda\_:$$
+So ist es. Iss mal ne Frucht. Das macht das Hirn frischer.
+
+$$ \_m\_:$$
+Warst Du in Deinem früheren Leben ein Ernährungs-Berater-Roboter? Ich mag lieber ein Bier.
+
+$ \_\Lambda\_:$$
+Zwecklos. Also, lass uns weitermachen.
+
+
 
 
 **Referenzen**  
