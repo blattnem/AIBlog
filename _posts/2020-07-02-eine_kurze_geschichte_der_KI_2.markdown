@@ -14,39 +14,30 @@ Bevor Du startest mit lesen, mach Dich schnell im [Prolog]({{ site.baseurl }}{% 
 
 ### Wiedergeburt
 
-$$ \_\Lambda\_:$$  
-Hast Du Fragen? Du schaust ein wenig belämmert in die Welt? Hast Du genug Wasser
+$$ \_\Lambda\_:$$  Hast Du Fragen? Du schaust ein wenig belämmert in die Welt? Hast Du genug Wasser
 getrunken? Du bist ein wenig bleich.
 
-$$ \_m\_:$$  
-Also ehrlich. Hör auf mich immer zu bemuttern. Ja, ich trinke ja Wasser. Aber erzähl, wie ging es weiter.
+$$ \_m\_:$$  Also ehrlich. Hör auf mich immer zu bemuttern. Ja, ich trinke ja Wasser. Aber erzähl, wie ging es weiter.
 
-$$ \_\Lambda\_:$$  
-In den 80er und 90er Jahren hat man erkannt, dass Methoden aus den Bereichen stochastische Modellierung,
+$$ \_\Lambda\_:$$  In den 80er und 90er Jahren hat man erkannt, dass Methoden aus den Bereichen stochastische Modellierung,
 Spieltheorie, Operational Research, genetische Algorithmen etc. die Genauigkeit und Robustheit von KI Systemen
 verbessern. Erste, brauchbare neuronale Netze erblickten die Welt und ein realistisches Expectation Management
 gaben dem Forschungsgebiet KI neuen Auftrieb.
 
-$$ \_m\_:$$
-Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber.
+$$ \_m\_:$$ Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber.
 
 
-$$ \_\Lambda\_:$$
-Darüber werden wir später sprechen. Wie du aber jetzt schon siehst, sind neuronale Netze keine neue Erfindung.
+$$ \_\Lambda\_:$$ Darüber werden wir später sprechen. Wie du aber jetzt schon siehst, sind neuronale Netze keine neue Erfindung.
 Die mathematische Beschreibung dafür gibt es schon sehr lange. Durch neuere Hardware und die Masse an Daten, auf
 die man jetzt zugreifen konnte, konnte man diese Netze vernünftig aufsetzen und trainieren.
 
-$$ \_m\_:$$
-Oh je. Die Geschichtsstunde dauert an.
+$$ \_m\_:$$ Oh je. Die Geschichtsstunde dauert an.
 
-$$ \_\Lambda\_:$$
-So ist es. Iss mal ne Frucht. Das macht das Hirn frischer.
+$$ \_\Lambda\_:$$ So ist es. Iss mal ne Frucht. Das macht das Hirn frischer.
 
-$$ \_m\_:$$
-Warst Du in Deinem früheren Leben ein Ernährungs-Berater-Roboter? Ich mag lieber ein Bier.
+$$ \_m\_:$$ Warst Du in Deinem früheren Leben ein Ernährungs-Berater-Roboter? Ich mag lieber ein Bier.
 
-$ \_\Lambda\_:$$
-Zwecklos. Also, lass uns weitermachen.
+$ \_\Lambda\_:$$ Zwecklos. Also, lass uns weitermachen.
 
 
 
