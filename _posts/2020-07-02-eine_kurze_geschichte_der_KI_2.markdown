@@ -30,6 +30,7 @@ gaben dem Forschungsgebiet KI neuen Auftrieb.
 $$ \_m\_:$$
 Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber.
 
+
 $$ \_\Lambda\_:$$
 Darüber werden wir später sprechen. Wie du aber jetzt schon siehst, sind neuronale Netze keine neue Erfindung.
 Die mathematische Beschreibung dafür gibt es schon sehr lange. Durch neuere Hardware und die Masse an Daten, auf
