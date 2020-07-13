@@ -27,11 +27,11 @@ Spieltheorie, Operational Research, genetische Algorithmen etc. die Genauigkeit 
 verbessern. Erste, brauchbare neuronale Netze erblickten die Welt und ein realistisches Expectation Management
 gaben dem Forschungsgebiet KI neuen Auftrieb.
 
-$$ \_m\_:$$
+$$ \_m\_:$$  
 Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber.
 
 
-$$ \_\Lambda\_:$$
+$$ \_\Lambda\_:$$  
 Darüber werden wir später sprechen. Wie du aber jetzt schon siehst, sind neuronale Netze keine neue Erfindung.
 Die mathematische Beschreibung dafür gibt es schon sehr lange. Durch neuere Hardware und die Masse an Daten, auf
 die man jetzt zugreifen konnte, konnte man diese Netze vernünftig aufsetzen und trainieren.
