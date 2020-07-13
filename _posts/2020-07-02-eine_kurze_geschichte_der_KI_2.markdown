@@ -14,12 +14,14 @@ Bevor Du startest mit lesen, mach Dich schnell im [Prolog]({{ site.baseurl }}{% 
 
 ### Wiedergeburt
 
-$$ \_\Lambda\_:$$  Hast Du Fragen? Du schaust ein wenig belämmert in die Welt? Hast Du genug Wasser
+$$ \_\Lambda\_:$$  
+Hast Du Fragen? Du schaust ein wenig belämmert in die Welt? Hast Du genug Wasser
 getrunken? Du bist ein wenig bleich.
 
 $$ \_m\_:$$  Also ehrlich. Hör auf mich immer zu bemuttern. Ja, ich trinke ja Wasser. Aber erzähl, wie ging es weiter.
 
-$$ \_\Lambda\_:$$  In den 80er und 90er Jahren hat man erkannt, dass Methoden aus den Bereichen stochastische Modellierung,
+$$ \_\Lambda\_:$$  
+In den 80er und 90er Jahren hat man erkannt, dass Methoden aus den Bereichen stochastische Modellierung,
 Spieltheorie, Operational Research, genetische Algorithmen etc. die Genauigkeit und Robustheit von KI Systemen
 verbessern. Erste, brauchbare neuronale Netze erblickten die Welt und ein realistisches Expectation Management
 gaben dem Forschungsgebiet KI neuen Auftrieb.
@@ -37,7 +39,10 @@ $$ \_\Lambda\_:$$ So ist es. Iss mal ne Frucht. Das macht das Hirn frischer.
 
 $$ \_m\_:$$ Warst Du in Deinem früheren Leben ein Ernährungs-Berater-Roboter? Ich mag lieber ein Bier.
 
-$ \_\Lambda\_:$$ Zwecklos. Also, lass uns weitermachen.
+$$ \_\Lambda\_:$$ Zwecklos und hoffnungslos. Wer bezahlt eigentlich die Kosten, wenn Du alt bist und verwelkst?
+Schon mal darüber nachgedacht? Also, lass uns weitermachen.
+
+In den Jahren 1983 und 2010 wurde die Hardware viel billiger und mehr als 500.000 Mal schneller; für viele Probleme reichte jedoch ein Computer immer noch nicht aus, um viele Algorithmen des maschinellen Lernens in angemessener Zeit auszuführen. Auf theoretischer Ebene hatte die Informatikforschung in den Jahren 1950-2000 gezeigt, dass solche Probleme viel schneller gelöst werden konnten, wenn viele Computer gleichzeitig und verteilt eingesetzt wurden. Die folgenden grundlegenden Probleme im Zusammenhang mit dem verteilten Rechnen blieben jedoch bis 2003 gelöst: (a) wie man Berechnungen parallelisiert, (b) wie man Daten "gerecht" auf die Computer verteilt und einen automatischen Lastausgleich vornimmt, und (b) wie man mit Computerausfällen umgeht und sie unterbricht, wenn sie in Endlosschleifen geraten. Im Jahr 2003 veröffentlichte Google das Google File Systems Paper und veröffentlichte 2004 MapReduce, ein Framework und eine zugehörige Implementierung zur Verarbeitung und Erzeugung großer Datensätze mit einem parallelen, verteilten Algorithmus auf einem Cluster [68]. Da MapReduce Eigentum von Google war, schufen Cutting und Carafella (von der University of Washington, aber bei Yahoo tätig) im Jahr 2006 eine quelloffene und freie Version dieses Frameworks namens Hadoop [69]. Außerdem wurden 2012 Spark und seine robusten verteilten Datensätze erfunden, die die Latenz vieler Anwendungen im Vergleich zu MapReduce und Hadoop-Implementierungen reduzierten [70]. Heute kann eine auf Hadoop-Spark basierende Infrastruktur 100.000 oder mehr Computer und mehrere hundert Millionen Gigabyte Speicherplatz bewältigen.
 
 
 

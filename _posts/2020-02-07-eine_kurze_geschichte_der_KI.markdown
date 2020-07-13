@@ -18,32 +18,23 @@ $$ \_m\_:$$
 Was KI uns bringen wird ist einfach hervorragend. Wir werden von allen Routine-Aufgaben befreit sein und uns mehr den kreativen, spannenden Sachen im Leben und in der Arbeit widmen können. Ich freue mich so auf die kommende Zeit mit all den disruptiven Entwicklungen.
 
 
-$$ \_\Lambda\_:$$  
-Was? Warum fantasierst Du wieder? Hast Du Deine Medikamente nicht genommen?
+$$ \_\Lambda\_:$$  Was? Warum fantasierst Du wieder? Hast Du Deine Medikamente nicht genommen?
 
-$$ \_m\_:$$  
-Doch habe ich. Du schon wieder mit Deinen destruktiven Bemerkungen.
+$$ \_m\_:$$  Doch habe ich. Du schon wieder mit Deinen destruktiven Bemerkungen.
 
-$$ \_\Lambda\_:$$  
-Ich bin nicht destruktiv. Dir ist schon klar, dass KI nichts neues ist? Ich meine, hast Du einen leisen Schimmer davon, woher der Begriff kommt und wie sich das alles entwickelt hat die letzten Jahre?
+$$ \_\Lambda\_:$$  Ich bin nicht destruktiv. Dir ist schon klar, dass KI nichts neues ist? Ich meine, hast Du einen leisen Schimmer davon, woher der Begriff kommt und wie sich das alles entwickelt hat die letzten Jahre?
 
-$$ \_m\_:$$  
-Logo. Google, Facebook und die anderen grossen Platzhirsche haben diese neuen Technologien ins Leben gerufen. Ohne diese geilen Player wäre nicht sehr viel am Start.
+$$ \_m\_:$$  Logo. Google, Facebook und die anderen grossen Platzhirsche haben diese neuen Technologien ins Leben gerufen. Ohne diese geilen Player wäre nicht sehr viel am Start.
 
-$$ \_\Lambda\_:$$  
-Pha. Du wieder. Ich glaub ne kleine Lektion ist wieder mal überfällig.
+$$ \_\Lambda\_:$$  Pha. Du wieder. Ich glaub ne kleine Lektion ist wieder mal überfällig.
 
-$$ \_m\_:$$  
-OMG. Na gut, wenn Du meinst. Aber bitte keine endlosen Monologe.
+$$ \_m\_:$$  OMG. Na gut, wenn Du meinst. Aber bitte keine endlosen Monologe.
 
-$$ \_\Lambda\_:$$  
-Endlos ist gar nicht möglich. Warum das so ist, erklär ich Dir ein andermal.
+$$ \_\Lambda\_:$$  Endlos ist gar nicht möglich. Warum das so ist, erklär ich Dir ein andermal.
 
-$$ \_m\_:$$  
-Bitte. Bleiben wir beim Thema. KI.
+$$ \_m\_:$$  Bitte. Bleiben wir beim Thema. KI.
 
-$$ \_\Lambda\_:$$.  
-Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rückenschmerzen. Yoga würde Dir gut tun. So. Und jetzt pass gut auf!
+$$ \_\Lambda\_:$$.  Einverstanden. Aber setz dich bitte gerade hin, sonst bekommst Du wieder Rückenschmerzen. Yoga würde Dir gut tun. So. Und jetzt pass gut auf!
 
 
 **Künstliche Intelligenz (KI) steht für ein interdisziplinäres Forschungsgebiet**
@@ -60,14 +51,11 @@ Mathematik, Computer Wissenschaften, Psychologie, Sozial Wissenschaften, Philoso
 
 Turing regte mit seinen Gedanken und Hypthesen Wissenschaftler und Visonäre zum Nachdenken an. Wie sollen wir das Verhältnis Mensch-Maschine verstehen? Gibt es jemals selbständig denkende Maschinen und wenn ja, was wären die Folgen für Gesellschaft und die Stellung des Menschen in unserer Welt?
 
-$$ \_m\_:$$  
-Geht das jetzt immer so weiter? Ich meine, betreibst Du jetzt einfach langweilige Geschichtsstunde? Ich will hören, wie cool Deep Learning, Reinforcement Learning ist und wie wir damit alle Probleme der Menschheit lösen können!
+$$ \_m\_:$$  Geht das jetzt immer so weiter? Ich meine, betreibst Du jetzt einfach langweilige Geschichtsstunde? Ich will hören, wie cool Deep Learning, Reinforcement Learning ist und wie wir damit alle Probleme der Menschheit lösen können!
 
-$$ \_\Lambda\_:$$  
-Jetzt chill mal die Basis. Ja, wir müssen ein wenig Geschichtsstunde betreiben, damit Du besser verstehen kannst, warum nicht alles durch die 'rosa KI' Brille betrachtet werden soll. OK?
+$$ \_\Lambda\_:$$  Jetzt chill mal die Basis. Ja, wir müssen ein wenig Geschichtsstunde betreiben, damit Du besser verstehen kannst, warum nicht alles durch die 'rosa KI' Brille betrachtet werden soll. OK?
 
-$$ \_m\_:$$  
-Wenns sein muss?
+$$ \_m\_:$$  Wenns sein muss?
 
 
 Turing war nicht der einzige, der sich fragte, ob eine Maschine intelligentes Verhalten imitieren kann. 1951 versuchte [Marvin Minsky](https://en.wikipedia.org/wiki/Marvin_Minsky){:target="_blank"} und Dean Edmonds das Verhalten einer nach Futter suchenden Ratte in einem Model nachzubilden. Dazu bauten sie eine Maschine (SNARC), welche ein primitives Neuronales Netz abbildete (40 künstliche Neuronen). Minsky gelang damit einfache Verhaltensweisen einer Ratte zu modellieren.
@@ -98,33 +86,23 @@ Bereichen nicht weiter und Maschinen konnten nur einfach strukturierte Probleme
 lösen.
 
 
-$$ \_m\_:$$  
-Sorry, dass ich Dich schon wieder in Deinem Monolog unterbrechen muss. Aber ich hab
+$$ \_m\_:$$  Sorry, dass ich Dich schon wieder in Deinem Monolog unterbrechen muss. Aber ich hab
 da mal ne Frage. Wann kommt der spannende Part?
 
-$$ \_\Lambda\_:$$  
-Was meinst Du? Das ist spannend!
+$$ \_\Lambda\_:$$  Was meinst Du? Das ist spannend!
 
-$$ \_m\_:$$  
-Naja, das ist wohl Ansichtssache. Eins interessiert mich aber wirklich. Was
+$$ \_m\_:$$  Naja, das ist wohl Ansichtssache. Eins interessiert mich aber wirklich. Was
 waren die Gründe, dass man nicht vorwärts kam?
 
-$$ \_\Lambda\_:$$  
-....am Dienstag gibts Fondue....
+$$ \_\Lambda\_:$$  ....am Dienstag gibts Fondue....
 
-$$ \_m\_:$$  
-Hallo? Gehst Du kaputt? Ich hab Dich was gefragt!
+$$ \_m\_:$$  Hallo? Gehst Du kaputt? Ich hab Dich was gefragt!
 
-$$ \_\Lambda\_:$$  
-Sorry, ja.
+$$ \_\Lambda\_:$$  Sorry, ja. Nun eigentlich ist das nicht sehr schwer zu verstehen?
 
-Nun eigentlich ist das nicht sehr schwer zu verstehen?
+$$ \_m\_:$$  Was soll das heissen? Hälst Du mich für blöd?
 
-$$ \_m\_:$$  
-Was soll das heissen? Hälst Du mich für blöd?
-
-$$ \_\Lambda\_:$$  
-Blöd vielleicht nicht aber... Naja, lassen wir das.
+$$ \_\Lambda\_:$$  Blöd vielleicht nicht aber... Naja, lassen wir das.
 
 Die Komplexität der Probleme wurden massiv unterschätzt und bald wurde klar, dass das ganze Vorhaben in der gewünschten Zeit nicht von Erfolg gekrönt sein wird. Zudem wurde zu viel versprochen. Die Forschung konnte nicht liefern, was sie angesagt hatte
 und in der Industrie gabs einfach zu wenig Use Cases. In der Theorie war man weiter als
