@@ -49,7 +49,27 @@ $$ \_\Lambda\_:$$
 Zwecklos und hoffnungslos. Wer bezahlt eigentlich die Kosten, wenn Du alt bist und verwelkst?
 Schon mal darüber nachgedacht? Also, lass uns weitermachen.
 
-In den Jahren 1983 und 2010 wurde die Hardware viel billiger und mehr als 500.000 Mal schneller; für viele Probleme reichte jedoch ein Computer immer noch nicht aus, um viele Algorithmen des maschinellen Lernens in angemessener Zeit auszuführen. Auf theoretischer Ebene hatte die Informatikforschung in den Jahren 1950-2000 gezeigt, dass solche Probleme viel schneller gelöst werden konnten, wenn viele Computer gleichzeitig und verteilt eingesetzt wurden. Die folgenden grundlegenden Probleme im Zusammenhang mit dem verteilten Rechnen blieben jedoch bis 2003 gelöst: (a) wie man Berechnungen parallelisiert, (b) wie man Daten "gerecht" auf die Computer verteilt und einen automatischen Lastausgleich vornimmt, und (b) wie man mit Computerausfällen umgeht und sie unterbricht, wenn sie in Endlosschleifen geraten. Im Jahr 2003 veröffentlichte Google das Google File Systems Paper und veröffentlichte 2004 MapReduce, ein Framework und eine zugehörige Implementierung zur Verarbeitung und Erzeugung großer Datensätze mit einem parallelen, verteilten Algorithmus auf einem Cluster [68]. Da MapReduce Eigentum von Google war, schufen Cutting und Carafella (von der University of Washington) im Jahr 2006 eine quelloffene und freie Version dieses Frameworks namens Hadoop [69]. Außerdem wurden 2012 Spark und seine robusten verteilten Datensätze erfunden, die die Latenz vieler Anwendungen im Vergleich zu MapReduce und Hadoop-Implementierungen reduzierten [70]. Heute kann eine auf Hadoop-Spark basierende Infrastruktur 100.000 oder mehr Computer und mehrere hundert Millionen Gigabyte Speicherplatz bewältigen.
+
+Zwischen 1980 und 2010 hat die Entwicklung von Hardware einen grossen Sprung gemacht und das
+Preis-Leistungsverhältnis hat sich immens verbessert. Viele Probleme konnten nun
+sinnvoll angegangen werden. Die Möglichkeit mit grossen Datenmengen über verteilte Systeme zu operieren
+eröffnete ganz neue Möglichkeiten. Denn im Allgemeinen sind Lernalgorithmen sehr datenhungrig.
+Besonders neuronale Netze brauchen sehr viele Daten, um sinnvolle Muster und
+Abstraktionen extrahieren zu können.
+
+$$ \_m\_:$$  
+Du sagst es schon wieder. Neuronale Netze. Jetzt erklär doch mal was das ist. Bitte kleine
+Geschichte mehr.
+
+$$ \_\Lambda\_:$$  
+Ok. Ich verspreche. Nur noch ein wenig Geschichte und dann werden wir über Lernalgorithmen
+sprechen. Hattest Du Deinen Apfel schon?
+
+$$ \_m\_:$$  
+Haha. Nice try. Ich esse einen Apfel, wenn Du über Lernalgorithmen sprichst.
+
+
+
 
 
 
