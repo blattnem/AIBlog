@@ -66,7 +66,8 @@ Ok. Ich verspreche. Nur noch ein wenig Geschichte und dann werden wir über Lern
 sprechen. Hattest Du Deinen Apfel schon?
 
 $$ \_m\_:$$  
-Haha. Nice try. Ich esse einen Apfel, wenn Du über Lernalgorithmen sprichst.
+Haha. Nice try. Ich esse einen Apfel, wenn Du über Lernalgorithmen sprichst. Ist das
+ein Deal?
 
 
 
