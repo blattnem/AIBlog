@@ -35,7 +35,9 @@ Da spielt die Musik.
 $$ \_\Lambda\_:$$  
 Darüber werden wir später sprechen. Wie du aber jetzt schon siehst, sind neuronale Netze keine neue Erfindung.
 Die mathematische Beschreibung dafür gibt es schon sehr lange. Durch neuere Hardware und die Masse an Daten, auf
-die man jetzt zugreifen konnte, konnte man diese Netze vernünftig aufsetzen und trainieren.
+die man jetzt zugreifen konnte, konnte man diese Netze vernünftig aufsetzen und trainieren. 
+Die Revolution nahm fahrt auf und so auch die Märchen, welche man sich erzählt, was diese Technologien 
+für die Gesellschaft bedeuten.
 
 $$ \_m\_:$$  
 Oh je. Die Geschichtsstunde dauert an.
