@@ -129,6 +129,7 @@ und bei Investoren massiv ramponiert. Dies führte zum (1.) KI Winter.
 * Die Filmindustrie und das Marketing von grossen Firmen prägten/prägen die Wahrnehmen von KI in der Öffentlichkeit.
 
 Eine kleine Geschichte der KI [Teil_2]({{ site.baseurl }}{% link _posts/2020-07-02-eine_kurze_geschichte_der_KI_2.markdown %})
+
 **Referenzen**  
 
 [1] Minsky, Marvin (1967), "Computation: finite and infinite machines," Prentice-Hall, Inc. page 2. ISBN:0-13-165563-9.
