@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eine kleine Geschichte der künstlichen Intelligenz - Teil 2"
-date:   2020-07-02 11:30:04 +0100
+date:   2022-01-11 11:30:04 +0100
 categories: KI Allgemein
 ---
 
@@ -28,7 +28,8 @@ verbessern. Erste, brauchbare neuronale Netze erblickten die Welt und ein realis
 gaben dem Forschungsgebiet KI neuen Auftrieb.
 
 $$ \_m\_:$$  
-Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber.
+Neuronale Netze, genau. Das ist der hot-shit. Jetzt kommen wir der Sache schon näher. Bitte mehr darüber. 
+Da spielt die Musik.
 
 
 $$ \_\Lambda\_:$$  
