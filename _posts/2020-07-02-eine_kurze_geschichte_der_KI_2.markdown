@@ -49,7 +49,7 @@ $$ \_m\_:$$
 Warst Du in Deinem früheren Leben ein Ernährungs-Berater-Roboter? Ich mag lieber ein Bier.
 
 $$ \_\Lambda\_:$$  
-Zwecklos und hoffnungslos. Wer bezahlt eigentlich die Kosten, wenn Du alt bist und verwelkst?
+Zwecklos und hoffnungslos. Wer bezahlt eigentlich die Kosten, wenn Du alt und verwelkst bist?
 Schon mal darüber nachgedacht? Also, lass uns weitermachen.
 
 
