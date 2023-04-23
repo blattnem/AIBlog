@@ -24,7 +24,7 @@ $$ \_m\_:$$  Doch habe ich. Du schon wieder mit Deinen destruktiven Bemerkungen.
 
 $$ \_\Lambda\_:$$  Ich bin nicht destruktiv. Dir ist schon klar, dass KI nichts neues ist? Ich meine, hast Du einen leisen Schimmer davon, woher der Begriff kommt und wie sich das alles entwickelt hat die letzten Jahre?
 
-$$ \_m\_:$$  Logo. Google, Facebook und die anderen grossen Platzhirsche haben diese neuen Technologien ins Leben gerufen. Ohne diese geilen Player wäre nicht sehr viel am Start.
+$$ \_m\_:$$  Logo. OpenAI, Google, Facebook und die anderen grossen Platzhirsche haben diese neuen Technologien ins Leben gerufen. Ohne diese geilen Player wäre nicht sehr viel am Start.
 
 $$ \_\Lambda\_:$$  Pha. Du wieder. Ich glaub ne kleine Lektion ist wieder mal überfällig.
 
