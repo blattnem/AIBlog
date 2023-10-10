@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eine kleine Geschichte der künstlichen Intelligenz - Teil 1"
+title:  "Eine kleine Geschichte der KI - Teil 1"
 date:   2022-11-11 11:30:04 +0100
 categories: KI Allgemein
 ---
