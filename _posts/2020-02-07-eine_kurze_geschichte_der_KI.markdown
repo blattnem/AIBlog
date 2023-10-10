@@ -10,7 +10,7 @@ categories: KI Allgemein
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-Bevor Du startest mit lesen, mach Dich schnell im [Prolog]({{ site.baseurl }}{% link _posts/2020-05-02-proglog.markdown %}) schlau.
+Bevor Du startest mit lesen, mach Dich doch schnell im [Prolog]({{ site.baseurl }}{% link _posts/2020-05-02-proglog.markdown %}) schlau.
 
 ### Aufstieg & Fall - erster Hype Cycle
 
